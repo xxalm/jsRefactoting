@@ -21,4 +21,4 @@ Este projeto é fruto de um refatoramento de um projeto anterior desenvolvido em
 
 ---
 
-Este projeto é ideal para quem deseja praticar suas habilidades em HTML, CSS e JavaScript ao mesmo tempo que organiza suas finanças pessoais.
+Este projeto é ideal para quem deseja praticar suas habilidades em HTML, CSS e JavaScript ao mesmo tempo que organiza suas finanças pessoais
